@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Canvas',
+			icon: 'graduation-cap',
+			link: 'https://canvas.ucsc.edu,
 		},
 		{
 			id: '4',
@@ -83,7 +83,7 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'Youtube',
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
@@ -195,12 +195,12 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'CyberChef',
+					link: 'https://gchq.github.io/CyberChef',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'HackTheBox',
+					link: 'https://app.hackthebox.com/home',
 				},
 			],
 		},
@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Design Patterns',
+					link: 'https://refactoring.guru/design-patterns',
 				},
 				{
 					name: 'Rust',
@@ -222,7 +222,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					link: 'https://github.com/The-PDB',
 				},
 			],
 		},
