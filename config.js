@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Canvas',
-			icon: 'graduation-cap',
+			icon: 'trello',
 			link: 'https://canvas.ucsc.edu,
 		},
 		{
